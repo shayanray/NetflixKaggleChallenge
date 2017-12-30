@@ -3,15 +3,15 @@ Machine learning assignment to predict the all ratings the customers gave the mo
 
 Using collaborative filtering technique on randomized samples of data, the following techniques were tried out :
 
-• SVD++ 
-• KNN-Baseline 
-• Co-Cluster 
+- SVD++ 
+- KNN-Baseline 
+- Co-Cluster 
 
 
 Best Algorithm for randomized sample of 10% records (~10048035 records)
 
 # KNN-Baseline
   -------------------
-• training error: 1.15218953241
-• test error: 0.840541638642
+- training error: 1.15218953241
+- test error: 0.840541638642
 
